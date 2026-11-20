@@ -1,6 +1,6 @@
 # My-Python-Learning-Journey
 ## Project Introduction 项目简介
-### This repository is mainly used to store my Python learning materials — mostly code that I'm interested in and some that might be commonly useful. It's also an opportunity for me to explore more Python knowledge. <br>这个代码仓库主要是用来存放我在python上学习方面的内容，主要是我感兴趣和一些可能比较常用的代码，也是一个让我去接触更多关于python知识的机会。<br><br>
+### This repository is mainly used to store my Python learning materials — mostly code that I'm interested in and some that might be commonly useful. It's also an opportunity for me to explore more Python knowledge. <br><br>这个代码仓库主要是用来存放我在python上学习方面的内容，主要是我感兴趣和一些可能比较常用的代码，也是一个让我去接触更多关于python知识的机会。<br><br>
 
 ## Document User Handbook 文件说明
 ### ARTword.py：Basically, this code is a very simple program that generates a "text box" based on the text you input. When you want to create a more artistic text format, you can just type it in directly instead of spending a lot of time searching online. However, it still needs more styles added later. <br><br>基本上，这个代码是一个很简单，能够基于输入的文本生成“文本框”的代码，当你想要生成比较艺术的文本格式时，就可以直接输入，而不用花费很多时间在网上找，不过还需要后续增加更多的风格。<br>
